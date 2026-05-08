@@ -1,18 +1,45 @@
-# Hi there, I'm Prarthik Marwah 👋
+# Hello, I'm Prarthik
+<a href="https://linkedin.com/in/prarthik-marwah-9519662b4"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a future network engineer with a deep focus on Linux, networking, and infrastructure. I enjoy building applications, configuring systems, and optimizing hardware for privacy and performance.
+Brief Introduction - Hi, my name is Prarthik Marwah. I’m passionate about cybersecurity with a strong interest in ethical hacking, networking, and system security. I’ve been learning Linux, Burp Suite, web security concepts, and networking fundamentals through practical labs and self-study. I’m currently focused on building hands-on skills for roles in SOC analysis and penetration testing.
 
-## 🛠 What I'm currently working on
-- Exploring **Cybersecurity** concepts and tackling CTF challenges (TryHackMe, OverTheWire).
-- Developing cross-platform **Flutter** applications, including inventory management and accessible automation tools.
-- **Self-hosting** privacy-centric network solutions, DNS sinkholes, and media servers on customized hardware.
-- Customizing and troubleshooting Linux distributions like Fedora and Kali.
+## Objective
+Cybersecurity learner • Linux • Networking • Web Security • Ethical Hacking
 
-## 💻 Tech Stack & Tools
-- **OS/Environments:** Fedora, Kali Linux, Direct Hardware Modification
-- **Development:** Flutter, Dart
-- **Networking & Infrastructure:** AdGuard Home, Plex, Hardware-level VPNs, Custom DNS Routing
-- **Security & Analysis:** Penetration testing concepts, Network isolation
+## Skills
+• Linux
+• Networking Fundamentals
+• Web Security Basics
+• Burp Suite
+• Wireshark
+• Nmap
+• Git & GitHub
+• TCP/IP
+• Basic Penetration Testing
+• SOC Fundamentals
 
-## 📈 Goals
-Continuing to expand my knowledge in advanced networking infrastructure, penetration testing, and mobile app development. I am also actively exploring emerging technologies and scalable cloud solutions to broaden my deployment expertise.
+## Tools
+• Web Security:
+Burp Suite, OWASP ZAP
+
+• Network Security:
+Wireshark, Nmap
+
+• Operating Systems:
+Linux, Windows
+
+• Virtualization:
+VirtualBox, VMware
+
+• Development & Version Control:
+Git, GitHub, VS Code
+
+• Security & Enumeration:
+Gobuster, Dirsearch, Nikto
+
+• Password & Hash Testing:
+Hydra, John the Ripper, Hashcat
+
+• Reconnaissance:
+theHarvester, Whois, DNS tools
+
